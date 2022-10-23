@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+nav{
+    height: 35px;
+    background: rgb(0, 0, 0);
+    }
+nav ul {
+    float: right;
+    display: flex;
+    color: white;
+}
+nav ul a{
+    color: white;
+    
+}
+ li{
+    padding: 16px;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.heading{
+    height: 60px;
+}
+h1{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 40px;
+    color: white;
+}
